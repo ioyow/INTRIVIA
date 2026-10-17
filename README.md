@@ -10,3 +10,6 @@ sangat seru walaupun kadang deg deg an tapi dengan adanya intrivia ini kita dapa
 
 ## Kesan Pesan Cluster 7 Sejauh Ini 
 kesan pesan saya sangat seru berada di cluster 7 walaupun di teknik komputer saya sendirian tapi setidaknya saya tetap merasa bisa berbaur dengan teman teman yang lain
+
+ ## Harapan Kuliah 
+harapan saya selama kuliah ialah saya bisa terus berkembang dalam mendalami percoddingan dan suatu saat bisa membuat robot saya sendiri
